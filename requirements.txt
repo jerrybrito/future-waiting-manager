@@ -1,0 +1,2 @@
+# Requires: paradoxical-threshold
+# (Not available on PyPI)
